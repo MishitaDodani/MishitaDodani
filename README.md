@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MishitaDodani 
-- 👀 I’m a BCA student with a passion for Cyber Security and Python Developer.
+-  I’m a BCA student with a passion for Cyber Security and Python Developer.
 - 🚀 Skills & Interests
 - Cybersecurity & Ethical Hacking
 - Web Development (Frontend + Backend)
