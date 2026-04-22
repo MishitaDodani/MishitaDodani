@@ -14,7 +14,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=MishitaDodani&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/mishita-dodani">
+  <a href="https://www.linkedin.com/in/mishita-dodani-381664253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -196,21 +196,11 @@ Client-side security tool demonstrating authentication best practices:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MishitaDodani/MishitaDodani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-> ⚠️ **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
-
----
-
 ## 📡 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mishita_Dodani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mishita-dodani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mishita_Dodani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishita-dodani-381664253)
 [![GitHub](https://img.shields.io/badge/GitHub-MishitaDodani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MishitaDodani)
 [![Email](https://img.shields.io/badge/Email-mishitadodani068@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishitadodani068@gmail.com)
 
