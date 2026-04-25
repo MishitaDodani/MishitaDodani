@@ -35,7 +35,7 @@
 class MishitaDodani:
     def __init__(self):
         self.name        = "Mishita Dodani"
-        self.role        = "Aspiring Penetration Tester & Bug Bounty Hunter"
+        self.role        = "Ethical Hacker | Aspiring Penetration Tester & Bug Bounty Hunter"
         self.education   = [
             "MCA @ Gyan Ganga Institute of Technology & Sciences (2025–Present)",
             "BCA @ St. Aloysius College (2022–2025)"
@@ -68,7 +68,6 @@ class MishitaDodani:
   <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nikto-4B275F?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gobuster-1E1E2E?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netcat-005F5F?style=for-the-badge&logo=gnu&logoColor=white"/>
 </p>
@@ -106,6 +105,7 @@ class MishitaDodani:
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
